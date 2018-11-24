@@ -1,10 +1,12 @@
 # Readme
 
+# Oluwakunle Fakorede
+
 # About me
 
 ## Name
 
-My name is oluwajuwon
+My name is oluwajuwon or Oluwakunle
 
 ## Bio
 
@@ -17,3 +19,4 @@ This is my comment on README
 ## Kizito Akhilome
 
 Kizito Akhilome is a boy!!!!!!!!!
+
